@@ -24,7 +24,7 @@ Create an application in python that reads in data from a data store, displays i
 Clone the project repository to a local workspace.
 
 ```
-git clone https://gitlab.clarityinnovations.biz/jconway/college-expenses.git
+git clone https://github.com/jbconway/college-expenses.git
 ```
 
 Cd into college-expenses
